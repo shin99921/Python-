@@ -1,3 +1,3 @@
 head="Python"
 tail=" is fun!"
-print(head+)
+print(head+tail)
